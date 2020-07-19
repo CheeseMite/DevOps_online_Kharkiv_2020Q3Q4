@@ -37,4 +37,4 @@ Connect using MobaXterm
 ![cloning](res/img18.png)  
 
 VagrantBox can be created by ```vagrant package```command. Example of creating VagrantBox by machine from VirtualBox.  
-![cloning](res/img19.png)  
+![cloning](res/img19.png)   
