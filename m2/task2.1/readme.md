@@ -18,4 +18,4 @@ The number of supported guest OSes is ~85
 ## Oracle VM server
 Has open-source Xen at its core.
 There is a free version with only the basic-level functionality.  
-Supports most of Windows and Linux.  
+Supports most of Windows and Linux.   
