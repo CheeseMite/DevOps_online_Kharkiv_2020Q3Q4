@@ -19,4 +19,4 @@ See the result
 
 Delete both service and cluster  
 ![cloning](res/img7.png)  
-![cloning](res/img8.png)  
+![cloning](res/img8.png)   
