@@ -102,7 +102,7 @@ drwxr-xr-x  2 cheesemite cheesemite 4096 чер  7 12:18 Templates
 drwxr-xr-x  2 cheesemite cheesemite 4096 чер  7 12:18 Videos
 drwxrwxr-x  3 cheesemite cheesemite 4096 чер  7 12:42 .vscode
 ```
-list the directories in the home directory providing detailed info
+list home directory providing detailed info
 ```console
 cheesemite@cheesemite-VirtualBox:~$ ls -lda ~
 drwxr-xr-x 18 cheesemite cheesemite 4096 сер 16 02:29 /home/cheesemite
@@ -171,3 +171,10 @@ UUID=8840d0a7-aca4-4758-aec8-80faa467a974 /               ext4    errors=remount
 UUID=3193-7F26  /boot/efi       vfat    umask=0077      0       1
 /swapfile                                 none            swap    sw              0       0
 ```
+___
+### Some man examples
+![pic](res/pic11.png)  
+
+![pic](res/pic11.png)  
+
+![pic](res/pic11.png)  
