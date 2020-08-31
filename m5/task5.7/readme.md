@@ -1,5 +1,11 @@
 # Task5.7
 ## Subtask 1
+Transfered file by ```scp```  
+![nat](res/pic7.png)  
+Generated shh-keys by ```ssh-keygen```  
+![nat](res/pic3.png)  
+Remotly Connected by ```ssh```  
+![nat](res/pic8.png)  
 ___
 ## Subtask 2
 Disabled Root Login by SSH  
