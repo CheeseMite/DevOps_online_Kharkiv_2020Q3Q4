@@ -38,4 +38,4 @@ switched user
 ## Made selections from the mysql db
 ![pic](res/pic9.png)  
 
-![pic](res/pic10.png)  
+![pic](res/pic10.png)   
